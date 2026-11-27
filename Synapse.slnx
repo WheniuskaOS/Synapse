@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Synapse.API/Synapse.API.csproj" />
+  <Project Path="Synapse.Desktop/Synapse.Desktop.csproj" />
+</Solution>
